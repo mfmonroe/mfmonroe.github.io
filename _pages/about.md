@@ -18,4 +18,4 @@ social: false  # includes social icons at the bottom of the page
 
 I am a second-year PhD student in the [CS theory group](https://www.colorado.edu/cs-theory/) at the University of Colorado, Boulder, co-advised by [Bo Waggoner](https://bowaggoner.com/) and [Rafael Frongillo](https://home.cs.colorado.edu/~raf/). I hold undergraduate degrees in Computer Science and Mathematics from the University of Maryland, and before grad school I was a software engineer for Amazon Web Services.
 
-I am interested in how incentives can be leveraged to elicit information, applied to both economic and machine learning settings. In particular, I am currently exploring mechanisms for social choice, as well as evaluative measures of generative models.
+My research interests lie at the intersection of algorithmic game theory and theoretical machine learning. In particular, since starting my PhD I have explored mechanisms for social choice, as well as evaluative measures of generative models.
