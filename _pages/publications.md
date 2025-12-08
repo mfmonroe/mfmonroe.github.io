@@ -2,7 +2,7 @@
 layout: page
 permalink: /papers/
 title: papers
-description: papers by categories in reversed chronological order.
+description: Authors in alphabetical order unless marked with *. 
 years: [2025, 2024, 2021]
 nav: true
 nav_order: 1
