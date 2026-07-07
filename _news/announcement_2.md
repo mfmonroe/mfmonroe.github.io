@@ -2,7 +2,7 @@
 layout: post
 title: EC accepted papers
 date: 2026-07-01 16:11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
